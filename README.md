@@ -71,11 +71,11 @@ This project is a complete clone UI of the Meetup website with the functionaliti
 
 ## Team Members 
 <ul>
-<li><a href="https://github.com/mahi98jat">Mahipal Singh Haritwal</a>
-<li><a href="https://github.com/Jagadish1217">Jagadish Hospet</a>
-<li><a href="https://github.com/SoumyashreeBehera">Soumyashree Behera</a>
-<li><a href="https://github.com/pratik9851">Pratik Saha</a>
-<li><a href="https://github.com/shruthibs1997">Shruthi B S</a>
+<li><a href="https://github.com/mahi98jat"></a>
+<li><a href="https://github.com/Jagadish1217"></a>
+<li><a href="https://github.com/SoumyashreeBehera"></a>
+<li><a href="https://github.com/pratik9851"></a>
+<li><a href="https://github.com/shruthibs1997"></a>
 
 </ul>
 
