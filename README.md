@@ -7,7 +7,7 @@ This project is a complete clone UI of the Meetup website with the functionaliti
 <ul>
   <li>Clone the repo into the local machine.</li>
   <ul>
-    <li>https://github.com/SoumyashreeBehera/meetup-clone.git</li>
+    <li>https://github.com/malli13193/getconnect/tree/main</li>
     <li>To start the server :</li>
     <ul>
       <li>cd backend.</li>
